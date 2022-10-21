@@ -12,3 +12,8 @@ myTest();
 echo $y; // 输出 15
 
 //add
+
+
+// mysql 密码 
+// root 123456
+// test test
